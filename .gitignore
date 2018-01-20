@@ -1,0 +1,7 @@
+# vse, co nechci zverejnit na GITu
+
+/db.sqlite3
+/venv/
+__pycache__/
+/.idea/
+# .gitignore nepridavam, aby novy uzivatel nemel problem se sdilenim sve DB
