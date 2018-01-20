@@ -26,7 +26,7 @@ SECRET_KEY = 'nig1^1xft(#+dys-1r_sxzz=95i7u5ksxr4!-x=$on39cp99z3'
 DEBUG = True    # az to bude online, da se False
 
 # PC, ktere mohou na stranky sahat v produkcnim rezimu - muj PC a server
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
